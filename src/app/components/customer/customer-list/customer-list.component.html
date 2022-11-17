@@ -1,0 +1,26 @@
+  <po-divider>
+  </po-divider>
+  <div *ngIf="customerTableColumn.length > 0">
+
+  <po-divider  p-label="Lista de Clientes Cadastrados">
+  </po-divider>
+    <po-table
+      p-container="light"
+      [p-columns]="fields"
+      [p-actions]="actions"
+      [p-items]="customerTableColumn">
+    </po-table>
+    <po-divider align="center" p-label="Feito com Amor por Diego">
+    </po-divider>
+    
+    <po-divider>
+    </po-divider>
+</div>
+<po-modal
+    [p-click-out]="false"
+    [p-hide-close]="true"
+    [p-primary-action]="actionsModalPrimary"
+    [p-secondary-action]="actionsModalSecondary"
+    p-size="sm"
+   [p-title]="title">
+</po-modal>

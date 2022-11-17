@@ -1,0 +1,21 @@
+<po-page-default>
+<po-dynamic-form #dynamicForm
+  [p-fields]="fields"
+  [p-value]="customerValues">
+</po-dynamic-form>
+<po-divider>
+</po-divider>
+  <div align="right">
+    <po-button
+      [p-label]="this.customer.id ? 'Salvar Edição' : 'Salvar Registro' "
+      [p-disabled]="dynamicForm?.form.invalid"
+      p-type="primary"
+      p-icon="po-icon po-icon-ok"
+      (p-click)="onSubmit()">
+    </po-button>
+  </div>
+  <app-customer-list>
+  </app-customer-list>
+<po-divider>
+</po-divider>
+  </po-page-default>

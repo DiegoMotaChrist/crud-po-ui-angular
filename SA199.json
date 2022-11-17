@@ -1,0 +1,172 @@
+{
+  "customers": [
+    {
+      "id": 8,
+      "info": {
+        "loja": "a",
+        "tipo": "a"
+      },
+      "endereco": {
+        "cep": "29102-904",
+        "uf": "ES",
+        "complemento": "",
+        "bairro": "",
+        "localidade": "Vila Velha",
+        "endereco": "Avenida Délio Silva Britto 630 Vila Velha",
+        "logradouro": ""
+      },
+      "empresa": {
+        "cnpj": "27.865.757/0001-02",
+        "nome": "GLOBO COMUNICACAO E PARTICIPACOES S/A",
+        "fantasia": "TV/REDE/CANAIS/G2C+GLOBO SOMLIVRE GLOBO.COM GLOBOPLAY"
+      }
+    },
+    {
+      "id": 9,
+      "info": {
+        "loja": "a",
+        "tipo": "a"
+      },
+      "endereco": {
+        "cep": "29102-904",
+        "uf": "ES",
+        "complemento": "",
+        "bairro": "",
+        "localidade": "Vila Velha",
+        "endereco": " Vila Velha",
+        "logradouro": ""
+      },
+      "empresa": {
+        "cnpj": "27.865.757/0001-02",
+        "nome": "GLOBO COMUNICACAO E PARTICIPACOES S/A",
+        "fantasia": "TV/REDE/CANAIS/G2C+GLOBO SOMLIVRE GLOBO.COM GLOBOPLAY"
+      }
+    },
+    {
+      "id": 10,
+      "info": {
+        "loja": "a",
+        "tipo": "a"
+      },
+      "endereco": {
+        "cep": "29102-904",
+        "uf": "ES",
+        "complemento": "",
+        "bairro": "",
+        "localidade": "Vila Velha",
+        "endereco": "Avenida Délio Silva Britto 630 Vila Velha",
+        "logradouro": ""
+      },
+      "empresa": {
+        "cnpj": "27.865.757/0001-02",
+        "nome": "GLOBO COMUNICACAO E PARTICIPACOES S/A",
+        "fantasia": "TV/REDE/CANAIS/G2C+GLOBO SOMLIVRE GLOBO.COM GLOBOPLAY"
+      }
+    },
+    {
+      "id": 11,
+      "info": {
+        "loja": "a",
+        "tipo": "a"
+      },
+      "endereco": {
+        "cep": "29102-904",
+        "uf": "ES",
+        "complemento": "",
+        "bairro": "",
+        "localidade": "Vila Velha",
+        "endereco": "Avenida Délio Silva Britto 630 Vila Velha",
+        "logradouro": ""
+      },
+      "empresa": {
+        "cnpj": "27.865.757/0001-02",
+        "nome": "GLOBO COMUNICACAO E PARTICIPACOES S/A",
+        "fantasia": "TV/REDE/CANAIS/G2C+GLOBO SOMLIVRE GLOBO.COM GLOBOPLAY"
+      }
+    },
+    {
+      "id": 12,
+      "info": {
+        "loja": "a",
+        "tipo": "a"
+      },
+      "endereco": {
+        "cep": "29102-904",
+        "uf": "ES",
+        "complemento": "",
+        "bairro": "",
+        "localidade": "Vila Velha",
+        "endereco": "Avenida Délio Silva Britto 630 Vila Velha",
+        "logradouro": ""
+      },
+      "empresa": {
+        "cnpj": "27.865.757/0001-02",
+        "nome": "GLOBO COMUNICACAO E PARTICIPACOES S/A",
+        "fantasia": "TV/REDE/CANAIS/G2C+GLOBO SOMLIVRE GLOBO.COM GLOBOPLAY"
+      }
+    },
+    {
+      "id": 13,
+      "info": {
+        "loja": "a",
+        "tipo": "a"
+      },
+      "endereco": {
+        "cep": "29102-904",
+        "uf": "ES",
+        "complemento": "",
+        "bairro": "",
+        "localidade": "Vila Velha",
+        "endereco": "Avenida Délio Silva Britto 630 Vila Velha",
+        "logradouro": ""
+      },
+      "empresa": {
+        "cnpj": "27.865.757/0001-02",
+        "nome": "GLOBO COMUNICACAO E PARTICIPACOES S/A",
+        "fantasia": "TV/REDE/CANAIS/G2C+GLOBO SOMLIVRE GLOBO.COM GLOBOPLAY"
+      }
+    },
+    {
+      "id": 14,
+      "info": {
+        "loja": "a",
+        "tipo": "a"
+      },
+      "endereco": {
+        "cep": "29102-904",
+        "uf": "ES",
+        "complemento": "",
+        "bairro": "",
+        "localidade": "Vila Velha",
+        "endereco": "Avenida Délio Silva Britto 630 Vila Velha",
+        "logradouro": ""
+      },
+      "empresa": {
+        "cnpj": "27.865.757/0001-02",
+        "nome": "GLOBO COMUNICACAO E PARTICIPACOES S/A",
+        "fantasia": "TV/REDE/CANAIS/G2C+GLOBO SOMLIVRE GLOBO.COM GLOBOPLAY"
+      }
+    },
+    {
+      "id": 15,
+      "info": {
+        "loja": "a",
+        "tipo": "a"
+      },
+      "endereco": {
+        "cep": "29102-904",
+        "uf": "ES",
+        "complemento": "",
+        "bairro": "",
+        "localidade": "Vila Velha",
+        "endereco": "Avenida Délio Silva Britto 630 Vila Velha",
+        "logradouro": ""
+      },
+      "empresa": {
+        "cnpj": "27.865.757/0001-02",
+        "nome": "GLOBO COMUNICACAO E PARTICIPACOES S/A",
+        "fantasia": "TV/REDE/CANAIS/G2C+GLOBO SOMLIVRE GLOBO.COM GLOBOPLAY"
+      }
+    }
+  ]
+}
